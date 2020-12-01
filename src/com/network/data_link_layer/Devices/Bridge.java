@@ -1,4 +1,4 @@
 package com.network.data_link_layer.Devices;
 
-public class NetworkBridge {
+public class Bridge {
 }

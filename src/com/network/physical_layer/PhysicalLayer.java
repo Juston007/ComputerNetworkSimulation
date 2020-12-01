@@ -1,4 +1,4 @@
 package com.network.physical_layer;
 
-public enum CommunicationMode {
+public class PhysicalLayer {
 }
